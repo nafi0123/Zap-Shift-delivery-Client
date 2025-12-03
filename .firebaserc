@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "module--49"
-  }
+    "default": "module--49",
+    "dev": "module51-7b9b9"
+  },
+  "targets": {},
+  "etags": {}
 }
